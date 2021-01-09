@@ -19,6 +19,8 @@ case "$(board_name)" in
 	xiaomi_mi-router-4|\
 	xiaomi,mi-router-ac2100|\
 	xiaomi,redmi-router-ac2100|\
+	dlink,dir-853-a3|\
+	dlink,dir-853-r1|\
 	xwrt,ms1201k|\
 	xwrt,nxc200p|\
 	xwrt,puppies|\
